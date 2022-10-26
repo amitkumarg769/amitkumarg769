@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitkumarg769
 - 👀 I’m interested in programming language, open 
-      Source, Hackthon. 
+      Source, Hackathon. 
 - 🌱 I’m currently learning web development. 
 - 💞️ I’m looking to collaborate open source. 
 - 📫 How to reach me guptaamitkumar095@gmail.com
